@@ -1,5 +1,5 @@
-andri resolusi
+ANDRI RESOLUSI
 - belajar github
-- belajar html 5 dasar
-- belajar css dasar
 
+- belajar css dasar
+- belajar javascript
